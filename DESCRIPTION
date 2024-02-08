@@ -4,7 +4,7 @@ Version: 0.0.0.9000
 Authors@R: 
     person("Ian", "Mc Farlane", , "ian2002.11.09@gmail.com", role = c("aut", "cre"),
            comment = c(ORCID = "YOUR-ORCID-ID"))
-Description: What the package does (one paragraph).
+Description: This package was created as a homework exercise for the course MATH 3190 at Southern Utah University. It contains functions for graphing either a simple scatterplot, box plot, or histogram.
 License: GPL (>= 3)
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
